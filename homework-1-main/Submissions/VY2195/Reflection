@@ -1,0 +1,8 @@
+print("commit practice 1")
+print("commit practice 2")
+print("commit practice 3")
+
+
+### Reflection on Commit History
+# When I reviewed the commit history for my Jupyter Notebook, the code appeared unfamiliar because Git records changes in the notebook’s underlying JSON structure rather than only the visible Python code. This makes the commit history harder to read and understand.
+# In contrast, the commit history for the Python script looked familiar and readable because it is a plain text file. Each commit clearly showed what lines were added or changed, which made it easie
