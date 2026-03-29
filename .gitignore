@@ -35,6 +35,4 @@ final-exam/Key
 .DS_Store
 anaconda_projects
 .ipynb_checkpoints
-.DS_Store
-anaconda_projects
-.ipynb_checkpoints
+.venv1
