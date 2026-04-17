@@ -26,14 +26,14 @@
  or do help(ol.Author) in Python.
  3) String alignment was covered briefly in the JuPyter notebook on strings.
 
-
-8.  [`10 pts`]  Do the same exercise with the Italian author [Gianrico Carofiglio](https://en.wikipedia.org/wiki/Gianrico_Carofiglio), a contemporary Italian crime writer.
+7.  [`10 pts`]  Do the same exercise with the Italian author [Gianrico Carofiglio](https://en.wikipedia.org/wiki/Gianrico_Carofiglio), a contemporary Italian crime writer.
  This time compare the results to a direct API query using the requests library in Python: https://openlibrary.org/search.json?author_key=INSERTKEY
  a) Which call returns more keys about each book? Why do you think that is? When would you choose one over the other?
  b) Loop over the results and print different messages based on the language of the book. If the book's language was Italian print "TITLE NAME was published in Italian". If it was published in English, print "TITLE NAME was published in English". (Make sure to include the actual title name and not TITLE NAME.)
  
 Hint: Find the language key within the results to separate the loop into different conditions. 
 
+8.  [`10 pts`] Find an API of interest to you. Sign up for an API key if necessary. Describe the API concisely and make a single call on the API and return an example of the returned data here.
 
 **Part 3:** regex practice
 
